@@ -1,6 +1,6 @@
 # POLITICO NLP PYTHON
 
-![Politico NLP Python GIF Demonstration](https://github.com/smhussain5/Politico-NLP-Python/blob/main/POLTICO_NLP_PYTHON.gif?raw=true)
+![Politico NLP Python GIF Demonstration](https://github.com/smhussain5/Politico-NLP-Python/blob/main/POLITICO_NLP_PYTHON.gif?raw=true)
 
 ## Problem 🤔
 
