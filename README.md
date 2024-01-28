@@ -15,7 +15,7 @@ This terminal application utilizes Beautiful Soup to scrape the Politico website
 If you have Docker installed, you can run this application on your own machine with just 2 steps!
 <br>
 <br>
-First, pull the image from Docker Hub
+Pull the image from Docker Hub
 ```python
 docker pull smhussain5/politico-python
 ```
