@@ -10,6 +10,19 @@ Utilizing multiple libraries to develop innovative solutions is key to being a c
 
 This terminal application utilizes Beautiful Soup to scrape the Politico website for the day's top stories. After collecting news links, the application utilizes natural language processing (NLP) libraries to summarize article texts and calculate a polairty score to further inform the reader. The resulting information is displayed to the user for convenient reading.
 
+## Quick Start ⚡
+
+If you have Docker installed, you can run this application on your own machine with just 2 steps!
+<br>
+<br>
+First, pull the image from Docker Hub
+```python
+docker pull smhussain5/politico-python
+```
+Then run the image as an interactive Docker container
+```python
+docker run --rm -it smhussain5/politico-python
+```
 ## Technologies Used ⚙
 
 - Beautiful Soup
